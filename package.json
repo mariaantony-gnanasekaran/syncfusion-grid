@@ -1,6 +1,6 @@
 {
   "name": "syncfusion-grid",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "keywords": [
     "aurelia",
@@ -62,6 +62,8 @@
     "vinyl-paths": "^2.1.0",
     "yargs": "^6.3.0"
   },
+  "jspmNodeConversion": false,
+
   "jspm": {
      "directories": {
       "lib": "export"
